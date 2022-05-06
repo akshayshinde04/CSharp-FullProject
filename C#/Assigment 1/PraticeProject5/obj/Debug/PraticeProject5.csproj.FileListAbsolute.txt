@@ -1,0 +1,8 @@
+C:\dotnet repositry\PraticeProject5\PraticeProject5\bin\Debug\PraticeProject5.exe.config
+C:\dotnet repositry\PraticeProject5\PraticeProject5\bin\Debug\PraticeProject5.exe
+C:\dotnet repositry\PraticeProject5\PraticeProject5\bin\Debug\PraticeProject5.pdb
+C:\dotnet repositry\PraticeProject5\PraticeProject5\obj\Debug\PraticeProject5.csproj.AssemblyReference.cache
+C:\dotnet repositry\PraticeProject5\PraticeProject5\obj\Debug\PraticeProject5.csproj.SuggestedBindingRedirects.cache
+C:\dotnet repositry\PraticeProject5\PraticeProject5\obj\Debug\PraticeProject5.csproj.CoreCompileInputs.cache
+C:\dotnet repositry\PraticeProject5\PraticeProject5\obj\Debug\PraticeProject5.exe
+C:\dotnet repositry\PraticeProject5\PraticeProject5\obj\Debug\PraticeProject5.pdb

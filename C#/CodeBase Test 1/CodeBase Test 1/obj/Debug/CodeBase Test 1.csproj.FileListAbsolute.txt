@@ -1,7 +1,0 @@
-C:\Users\AS67803\source\repos\CodeBase Test 1\CodeBase Test 1\obj\Debug\CodeBase Test 1.csproj.AssemblyReference.cache
-C:\Users\AS67803\source\repos\CodeBase Test 1\CodeBase Test 1\obj\Debug\CodeBase Test 1.csproj.CoreCompileInputs.cache
-C:\Users\AS67803\source\repos\CodeBase Test 1\CodeBase Test 1\bin\Debug\CodeBase Test 1.exe.config
-C:\Users\AS67803\source\repos\CodeBase Test 1\CodeBase Test 1\bin\Debug\CodeBase Test 1.exe
-C:\Users\AS67803\source\repos\CodeBase Test 1\CodeBase Test 1\bin\Debug\CodeBase Test 1.pdb
-C:\Users\AS67803\source\repos\CodeBase Test 1\CodeBase Test 1\obj\Debug\CodeBase Test 1.exe
-C:\Users\AS67803\source\repos\CodeBase Test 1\CodeBase Test 1\obj\Debug\CodeBase Test 1.pdb

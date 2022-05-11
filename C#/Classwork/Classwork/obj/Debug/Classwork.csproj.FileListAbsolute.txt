@@ -1,0 +1,8 @@
+C:\dotnet repositry\Classwork\Classwork\bin\Debug\Classwork.exe.config
+C:\dotnet repositry\Classwork\Classwork\bin\Debug\Classwork.exe
+C:\dotnet repositry\Classwork\Classwork\bin\Debug\Classwork.pdb
+C:\dotnet repositry\Classwork\Classwork\obj\Debug\Classwork.csproj.AssemblyReference.cache
+C:\dotnet repositry\Classwork\Classwork\obj\Debug\Classwork.csproj.SuggestedBindingRedirects.cache
+C:\dotnet repositry\Classwork\Classwork\obj\Debug\Classwork.csproj.CoreCompileInputs.cache
+C:\dotnet repositry\Classwork\Classwork\obj\Debug\Classwork.exe
+C:\dotnet repositry\Classwork\Classwork\obj\Debug\Classwork.pdb

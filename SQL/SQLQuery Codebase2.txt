@@ -1,0 +1,21 @@
+
+create table EMP8
+
+
+
+(Epid int primary key,EpName varchar(20) not null,EpSalary int ,EpDeptno int)
+
+
+
+INSERT INTO EMP8
+values(0001,'Akshay',40000,10),
+(0002,'Lokesh',50000,20),
+(0003,'Anjali',320000,30)
+
+
+
+SELECT * FROM EMP8;
+drop table EMP8
+
+
+SELECT DATEDIFF(dd,'1990/12','2022/05/17') AS DateDiff;

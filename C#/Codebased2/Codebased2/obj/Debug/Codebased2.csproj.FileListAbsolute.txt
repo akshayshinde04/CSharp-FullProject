@@ -1,0 +1,7 @@
+C:\Users\AS67803\source\repos\Codebased2\Codebased2\bin\Debug\Codebased2.exe.config
+C:\Users\AS67803\source\repos\Codebased2\Codebased2\bin\Debug\Codebased2.exe
+C:\Users\AS67803\source\repos\Codebased2\Codebased2\bin\Debug\Codebased2.pdb
+C:\Users\AS67803\source\repos\Codebased2\Codebased2\obj\Debug\Codebased2.csproj.CoreCompileInputs.cache
+C:\Users\AS67803\source\repos\Codebased2\Codebased2\obj\Debug\Codebased2.exe
+C:\Users\AS67803\source\repos\Codebased2\Codebased2\obj\Debug\Codebased2.pdb
+C:\Users\AS67803\source\repos\Codebased2\Codebased2\obj\Debug\Codebased2.csproj.AssemblyReference.cache

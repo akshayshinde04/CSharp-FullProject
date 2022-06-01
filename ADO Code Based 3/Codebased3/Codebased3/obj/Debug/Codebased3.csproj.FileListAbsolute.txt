@@ -1,0 +1,6 @@
+C:\Users\AS67803\source\repos\Codebased3\Codebased3\bin\Debug\Codebased3.exe.config
+C:\Users\AS67803\source\repos\Codebased3\Codebased3\bin\Debug\Codebased3.exe
+C:\Users\AS67803\source\repos\Codebased3\Codebased3\bin\Debug\Codebased3.pdb
+C:\Users\AS67803\source\repos\Codebased3\Codebased3\obj\Debug\Codebased3.csproj.CoreCompileInputs.cache
+C:\Users\AS67803\source\repos\Codebased3\Codebased3\obj\Debug\Codebased3.exe
+C:\Users\AS67803\source\repos\Codebased3\Codebased3\obj\Debug\Codebased3.pdb

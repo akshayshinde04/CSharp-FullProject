@@ -24,7 +24,7 @@ namespace Casestudy
 
 
 
-            con = new SqlConnection(@"data source = POOLW42SLPC6986\\SQLEXPRESS; Initial Catalog=StudentManagementSystem; user id=sa; password=Temp1234");
+            con = new SqlConnection(@"data source = POOLW42SLPC6986\SQLEXPRESS; Initial Catalog=StudentManagementSystem; user id=sa; password=Temp1234");
             con.Open();
             return con;
         }
